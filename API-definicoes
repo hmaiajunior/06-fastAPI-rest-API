@@ -1,0 +1,6 @@
+API client x API server
+
+Client - biblioteca request
+Server  - biblioteca FastAPI (precisa do uvicorn que é de fato o servidor )
+
+OBS:. Assistir a live de FastAPI e identidade no canal do Eduardo Mendes com a Jesstemporal. Entender a parte de autenticação de uma API.
