@@ -1,1 +1,3 @@
 Criar uma API que realiza o cálculo de partições baseado nas informações que o DEV disponibiliza.
+
+Caso a quantidade de partição não esteja de acordo com o cálculo a blueprint apresentará um alerta em que para o fluxo seguir deve-se ter um ok do dev.
