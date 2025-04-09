@@ -1,0 +1,6 @@
+Realizar uma consulta no banco de dados postgres onde existe os registros dos colaboradores de uma determinada empresa. Será construída uma API que será atualizada quando existir algumas alteração na base dos colaboradores.
+
+Utilizando o poetry para iniciar o projeto
+
+poetry init
+
